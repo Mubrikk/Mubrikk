@@ -1,7 +1,5 @@
 <div align="center">
 
-![a](prescript_mubrik.gif)
-
 </div><img width="720" height="180" alt="prescript_mubrik" src="https://github.com/user-attachments/assets/39434a16-4c16-45b8-a690-bd3e41dc2842" />
 
 
